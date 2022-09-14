@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(218, 193, 162);
+    font-family: sans-serif;
+    user-select: none;
+}
+
+.container{
+    /* background-image: url(bg-img.jpg); */
+    width: 60%;
+    margin-top: 100px;
+    margin-left: 500px;
+    text-align: center;
+    background-repeat: none;
+    background-size: cover;
+}
+
+
+h1{
+    color: rgb(212, 134, 134);
+    padding: 7px;
+    font-size: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.btn{
+    width: 40%;
+    border: 5px solid  rgb(218, 193, 162);
+    border-radius: 10px;
+    font-size: 35px;
+    outline: none;
+}
+
+.btnn{
+    margin-top: 15px;
+    font-size: 20px;
+    width: 10%;
+    border-radius: 10px;
+    background-color: rgb(212, 134, 134);
+    outline: none;
+    cursor: pointer;
+}
+
+.btnn:hover{
+    box-shadow: 0 7px 18px 0 rgba(0,0,0,0.2), 0 2px 60px 0 rgba(234, 14, 98, 0.19);
+}
+
+.btnn:active{
+    background:rgb(218, 193, 162);
+}
+
+/* .img{
+  width: 50%;
+  background-repeat: no-repeat;
+  object-fit: cover;
+} */
+
+
+.paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 35px;
+    color: black;
+    text-transform: capitalize;
+
+}
+
+.to-dos{
+    margin-top: 25px;
+}
