@@ -1,3 +1,1 @@
-![](todo.gif)
-# to_do_list
-# to-do-list
+# todo_proje
